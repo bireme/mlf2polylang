@@ -5,7 +5,7 @@ Convert Multi-Language Framework to Polylang metadata
 
 Antes de executar o script:
 * Interromper a entrada de dados até o término de todo o processo de migração
-* Realizar backup dos dados em `Ferramentas > Exportar > Todo conteúdo`
+* Realizar backup dos dados através da área administrativa em `Ferramentas > Exportar > Todo conteúdo`
 
 No admin do WordPress:
 * Ferramentas > Exportar > Download do arquivo de exportação do conteúdo desejado (em cada idioma)
