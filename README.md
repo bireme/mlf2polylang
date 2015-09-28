@@ -9,7 +9,7 @@ Antes de executar o script:
 
 No admin do WordPress:
 * Ferramentas > Exportar > Download do arquivo de exportação do conteúdo desejado (em cada idioma)
-* Renomear os arquivos seguindo o modelo <nome_do_arquivo>.<sigla_do_idioma>.xml `(ex. wordpress.pt.xml)`
+* Renomear os arquivos seguindo o modelo `<nome_do_arquivo>.<sigla_do_idioma>.xml` (ex. wordpress.pt.xml)
 * Apagar todos os conteúdos no WordPress que já foram exportados
 * Desativar o plugin Multi-Language Framework
 * Ativar e configurar o plugin Polylang com os mesmos idiomas que estavam ativos anteriormente
