@@ -21,4 +21,4 @@ Na linha de comando, executar o script com o seguinte comando:
 No admin do WordPress:
 * Ferramentas > Importar > Importar o arquivo result.xml
 
-__OBS:__ Ao executar o script, o primeiro arquivo passado como parâmetro DEVE SER aquele que contém o idioma principal do site.
+__NOTA:__ Ao executar o script, o primeiro arquivo passado como parâmetro DEVE SER aquele que contém o idioma principal do site.
