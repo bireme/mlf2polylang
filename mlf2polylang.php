@@ -16,12 +16,15 @@ No admin do WordPress:
 * Desativar o plugin Multilanguage Framework
 * Ativar e configurar o plugin Polylang com os mesmos idiomas que estavam ativos anteriormente
 
-Dentro do servidor onde está instalado o WordPress, executar na linha de comando:
+Na linha de comando, executar o script com o seguinte comando:
 
     php mlf2polylang.php <arquivo1>.xml <arquivo2>.xml ...
 
 No admin do WordPress:
 * Ferramentas > Importar > Importar o arquivo result.xml
+
+NOTA: Ao executar o script, o primeiro arquivo passado como parâmetro DEVE SER aquele que contém
+      o idioma principal do site.
 
 ******************************************************************************************************/
 \n";
