@@ -91,4 +91,10 @@ $languages = array(
     array('vi', 'vi', 'Tiếng Việt'),
 );
 
+// locale description list
+$locale_description = array();
+$locale_description['pt_BR'] = array('locale' => 'pt_BR','rtl' => 0,'flag_code' => 'br','label' => 'Português');
+$locale_description['en_US'] = array('locale' => 'en_US','rtl' => 0,'flag_code' => 'us','label' => 'English');
+$locale_description['es_ES'] = array('locale' => 'es_ES','rtl' => 0,'flag_code' => 'es','label' => 'Español');
+
 ?>
